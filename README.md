@@ -3,7 +3,7 @@
 <h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Web | Apasionado por el código y el diseño 👨‍💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=26&center=true&vCenter=true&width=600&lines=Hola%2C+soy+un+Estudiante+de+DAW;Desarrollador+Web+en+Formación;Amante+del+Frontend+y+Backend;Siempre+aprendiendo+cosas+nuevas" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=26&center=true&vCenter=true&width=600&lines=Hola%2C+soy+un+Estudiante+de+DAW;Desarrollador+Web+en+Formación;Amante+del+Frontend+y+Backend;Siempre+aprendiendo+cosas+nuevas;" />
 </p>
 
 ---
