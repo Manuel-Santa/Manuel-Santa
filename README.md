@@ -1,58 +1,53 @@
-<h1>👋 ¡Hola! Soy Manuel </h1>
+<!-- Encabezado principal estilo banner -->
+<h1 align="center">✨ Bienvenido a mi Perfil de GitHub ✨</h1>
+<h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Web | Apasionado por el código y el diseño 👨‍💻</h3>
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
-💻 Apasionado por el desarrollo web, el diseño de interfaces y la creación de proyectos funcionales.
-🚀 En constante aprendizaje para convertirme en un desarrollador profesional.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=26&center=true&vCenter=true&width=600&lines=Hola%2C+soy+un+Estudiante+de+DAW;Desarrollador+Web+en+Formación;Amante+del+Frontend+y+Backend;Siempre+aprendiendo+cosas+nuevas" />
+</p>
 
-🛠️ Tecnologías y Herramientas
-Frontend
+---
 
-HTML5
+## 🌟 **Sobre mí**
+Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** con ganas de crecer en el mundo del desarrollo web.  
+Me encanta combinar **diseño**, **funcionalidad** y **buenas prácticas** para crear aplicaciones modernas.
 
-CSS3 / SASS
+- 🚀 Futuro **Full Stack Developer**  
+- 🧠 Aprendiendo todos los días  
+- 🎯 Objetivo: dominar el desarrollo web  
+- 🤝 Abierto a colaborar y aprender  
 
-JavaScript
+---
 
-React / Vue (aprendiendo)
+## 🚀 **Tecnologías y Herramientas**
 
-Backend
+### 🎨 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue" />
+</p>
 
-PHP
+### 🧠 **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,java,spring,python" />
+</p>
 
-Laravel / Symfony
+### 🗄️ **Bases de Datos**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb" />
+</p>
 
-Node.js
+### 🛠️ **Herramientas**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,composer,npm,figma" />
+</p>
 
-Java (Spring)
+---
 
-Python (básico)
+## 📬 **Contacto**
 
-Bases de datos
+- ✉️ Email: **manolosantaellarigall@gmail.com**  
 
-MySQL
+---
 
-MariaDB
-
-MongoDB (aprendiendo)
-
-Otras herramientas
-
-Git & GitHub
-
-Docker (iniciándome)
-
-VS Code
-
-Figma
-
-📌 Sobre mí
-
-📚 Actualmente cursando 1º/2º DAW
-
-🧠 Interesado en desarrollo web full stack
-
-🌐 Me gusta crear proyectos que mezclen diseño y funcionalidad
-
-🎯 Objetivo: Convertirme en desarrollador web profesional
-
-🌱 Siempre aprendiendo nuevas tecnologías
+<h2 align="center">⭐ ¡Gracias por visitar mi perfil! ⭐</h2>
+<p align="center">Si te gusta lo que hago, ¡no dudes en seguirme! 😄</p>
