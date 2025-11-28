@@ -38,7 +38,7 @@ Me encanta combinar **diseño**, **funcionalidad** y **buenas prácticas** para 
 
 ### 🛠️ **Herramientas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
