@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy [Tu Nombre]
+<h1>👋 ¡Hola! Soy Manuel </h1>
 
 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 💻 Apasionado por el desarrollo web, el diseño de interfaces y la creación de proyectos funcionales.
