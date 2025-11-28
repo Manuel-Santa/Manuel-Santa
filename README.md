@@ -23,22 +23,22 @@ Me encanta combinar **diseño**, **funcionalidad** y **buenas prácticas** para 
 
 ### 🎨 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🧠 **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,java,spring,python" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 🗄️ **Bases de Datos**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠️ **Herramientas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,composer,npm,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
